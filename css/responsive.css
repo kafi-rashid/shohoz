@@ -1,0 +1,268 @@
+@media only screen and (max-width:1200px) {
+    .slider-slogan {
+        font-size: 40px
+    }
+    .font-30 {
+        font-size: 27px
+    }
+    .navbar-nav .nav-item {
+        padding: 0 10px
+    }
+    .navbar-nav .nav-item:first-of-type {
+        padding-left: 30px
+    }
+    .chart-first-row {
+        margin-top: 0
+    }
+    .chart-last-row {
+        margin-top: 45px
+    }
+    .video-section {
+        padding: 40px 30px
+    }
+    .app-slide-inner {
+        height: 350px
+    }
+}
+
+@media only screen and (max-width:1000px) {
+    .slider-slogan {
+        font-size: 30px
+    }
+    .container {
+        max-width: 100%;
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    .second-div {
+        padding: 70px 40px
+    }
+    .navbar-nav .nav-item {
+        padding: 0 5px
+    }
+    .navbar-nav .nav-item:first-of-type {
+        padding-left: 20px
+    }
+    .single-image-2 {
+        width: 100%;
+        max-width: 350px
+    }
+    .chart-first-row {
+        margin-top: -.15vw
+    }
+    .chart-last-row {
+        margin-top: 2vw
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .text-left-sm {
+        text-align: left!important
+    }
+    .inner-tab-2 .vertical-bottom {
+        text-align: center;
+        display: unset;
+        align-items: unset;
+        justify-content: unset;
+        padding-bottom: 50px
+    }
+    .inner-tab-2 .padding-30 {
+        padding-bottom: 40px!important
+    }
+    .fake-poster {
+        display: none
+    }
+    video {
+        object-fit: cover
+    }
+}
+
+@media only screen and (max-width:900px) {
+    .slider-button-2 {
+        font-size: 15px
+    }
+    .navbar {
+        padding: 0 0 0 10px!important
+    }
+    .navbar-brand img {
+        width: 100px
+    }
+    .navbar-nav .nav-item {
+        padding: 0 3px
+    }
+    .navbar-nav .nav-item:first-of-type {
+        padding-left: 0
+    }
+    .app-block {
+        padding-top: 20px!important
+    }
+    .app-block-center {
+        padding: 10px!important
+    }
+    .footer-bottom {
+        padding: 20px 0
+    }
+    .footer-bottom-copr,
+    .footer-bottom-links {
+        display: block;
+        float: unset
+    }
+    .footer-bottom-links {
+        margin-top: 10px
+    }
+    .footer-bottom-link {
+        padding: 0 20px 0 0
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .carousel-content {
+        transform: scale(01)
+    }
+    .carousel-indicators {
+        display: none
+    }
+}
+
+@media only screen and (max-width:850px) {
+    .secondary-nav .nav-link {
+        width: calc(100% / 3)
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .text-dark {
+        font-size: 15px!important
+    }
+    .navbar {
+        padding: 0 10px 0 20px!important
+    }
+    .navbar-brand-small {
+        width: 100px!important
+    }
+    .app-block-center:first-of-type {
+        display: unset;
+        align-items: unset;
+        justify-content: unset;
+        flex-direction: unset;
+        height: 300px
+    }
+    .charts {
+        padding: 30px 20px
+    }
+    .charts-con {
+        margin-top: 50px;
+        background-image: none
+    }
+    .inner-tab .vertical-bottom {
+        text-align: center;
+        margin-bottom: 20px;
+        display: unset;
+        align-items: unset;
+        justify-content: unset
+    }
+    .single-image {
+        width: 100%;
+        max-width: 350px
+    }
+    .container {
+        padding-left: 20px;
+        padding-right: 20px
+    }
+    .navbar-toggler {
+        border: none
+    }
+    .navbar-toggler-icon {
+        width: 20px;
+        height: 20px
+    }
+    .navbar {
+        padding: 10px;
+        padding-left: 20px
+    }
+    .navbar-nav .nav-item,
+    .navbar-nav .nav-item:first-of-type {
+        padding-left: unset
+    }
+    #language-selector {
+        display: none
+    }
+    .navbar-nav .nav-item:first-of-type {
+        margin-top: 15px
+    }
+    .carousel-item {
+        height: 100vh;
+        padding: 0
+    }
+    .padding-30 {
+        padding: 10px
+    }
+    #secondary-nav .tab-pane {
+        padding: 40px
+    }
+    .app-block .carousel-item {
+        height: 100%!important;
+        width: 100%!important
+    }
+    .app-slide-inner {
+        height: 250px
+    }
+    .app-image {
+        width: 100%;
+        max-width: 350px;
+        margin-bottom: unset
+    }
+    .app-block {
+        padding: 30px
+    }
+    .app-block .vertical-bottom {
+        text-align: center;
+        display: unset;
+        align-items: unset;
+        justify-content: unset
+    }
+    .featured-on {
+        padding: 50px
+    }
+    .featured-logo {
+        height: 35px;
+        margin: 15px 20px
+    }
+    .footer {
+        padding: 40px 30px 15px 30px
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .navbar {
+        padding: 10px
+    }
+    .second-div {
+        padding: 30px 30px 20px 30px
+    }
+    .font-30 {
+        font-size: 22px
+    }
+}
+
+@media only screen and (max-width:550px) {
+    .carousel-content {
+        transform: scale(01)
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .secondary-nav .nav-link {
+        font-size: 14px;
+        width: calc(100% / 2)
+    }
+    .secondary-nav .nav-link .fas {
+        font-size: 20px
+    }
+}
+
+@media only screen and (max-width:400px) {
+    .app-block-center:first-of-type {
+        height: 350px
+    }
+}
